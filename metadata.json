@@ -1,0 +1,6 @@
+{
+  "name": "YT Auto Shorts",
+  "description": "Native Android app to collect copyright-safe photos from Telegram, generate vertical 1080x1920 YouTube Shorts with AI metadata, and upload directly to YouTube via OAuth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

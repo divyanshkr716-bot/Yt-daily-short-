@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central YouTube Shorts pill emblem -->
+    <path
+        android:fillColor="#FF0033"
+        android:pathData="M40,24 C33,24 28,29 28,36 C28,40 30,43 33,45 L38,48 C41,50 43,53 43,57 C43,62 39,66 34,66 C31,66 28,64 26,62 L23,65 C26,69 30,71 34,71 C42,71 48,65 48,57 C48,53 46,50 43,48 L38,45 C35,43 33,40 33,36 C33,31 37,28 41,28 C45,28 48,30 50,33 L53,30 C50,26 45,24 40,24 Z" />
+
+    <!-- Vertical Video Frame outline -->
+    <path
+        android:pathData="M38,26 L70,26 C73.3,26 76,28.7 76,32 L76,76 C76,79.3 73.3,82 70,82 L38,82 C34.7,82 32,79.3 32,76 L32,32 C32,28.7 34.7,26 38,26 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Central Play triangle with subtle gradient -->
+    <path
+        android:pathData="M48,43 L63,54 L48,65 Z"
+        android:fillColor="#FF0033" />
+        
+    <!-- Lightning bolt representing fast automation -->
+    <path
+        android:pathData="M70,30 L64,42 L71,42 L63,56 L65,46 L58,46 Z"
+        android:fillColor="#FFD700" />
+</vector>
